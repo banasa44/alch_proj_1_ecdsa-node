@@ -1,5 +1,5 @@
 ## Author notes
-This is a fork of the ALCHEMY UNIVERSITY 1st exercise repository. I will implement the required code and submit it for their approval.
+This is a fork of the ALCHEMY UNIVERSITY (https://university.alchemy.com/) 1st exercise repository. I will implement the required code and submit it for their approval.
 
 ## ECDSA Node
 
